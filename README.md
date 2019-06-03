@@ -18,7 +18,7 @@
   - Node.js
   - Docker
   - Git
-  - 了解相关主流框架、库：
+  - 了解相关主流框架、库、类：
     - Bootstrap、Jquery
     - Spring、SpringMVC、MyBatis
     - Flask、Django
