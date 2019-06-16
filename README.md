@@ -43,9 +43,11 @@
 
 ### tips：
 &ensp;如果你直接clone了本项目的代码仓库，可以使用`git pull`进行拉取更新，如果你先`fork`到了自己的仓库而且clone到你本地的是你自己的仓库，那么可以编辑本地项目的`.git/config`（如果你使用的是windows系统，.git目录会默认隐藏）,增加如下配置
+
 ```bash
 [remote "origin"]
 	url = https://github.com/seven-innovation-base/2019-Software
 	fetch = +refs/heads/*:refs/remotes/origin/*
 ```
-然后使用'git pull'拉取更新
+
+然后使用`git pull`拉取更新
