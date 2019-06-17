@@ -27,7 +27,7 @@
     - Vue.js
     - 等等
   - 数据库
-    - SQL
+    - SQL Server
     - SQLite
     - Mysql
     - Redis
