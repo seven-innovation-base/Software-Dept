@@ -9,22 +9,25 @@
 **鼓励部门内成员多交流合作，一个人单干是很难学下去的，有一个志同道合的伙伴一起前行才能更好的进步。**
 
 - 技术栈简览
-  - C/C++
-  - Java
-  - Objective-C
+  - 基础算法和数据结构
+  - 计算机网络、计算机系统
+  - C/C++、Java
   - HTML、CSS、Javascript
-  - Python
-  - PHP、Ruby、Rust、Golang 等等
+  - Python、PHP、Ruby、Rust、Golang 等等
   - Node.js
   - Docker
-  - Git
+  - Git、SVN
   - 了解相关主流框架、库、类：
-    - Bootstrap、Jquery
+    - Bootstrap、Materialize
+    - Jquery
     - Spring、SpringMVC、MyBatis
-    - Flask、Django
+    - Flask、Django、Tornado
     - Flutter
     - React
     - Vue.js
+    - OpenCV、OpenGL
+    - WebGL
+    - Qt
     - 等等
   - 数据库
     - SQL Server
@@ -33,11 +36,12 @@
     - Redis
     - MongoDB
     - 等等
+  - 等等
 
 ## 部门成员个人博客
 
 - [Shan San](https://shansan.top)
-- [https://me.csdn.net/weixin_44089259](https://me.csdn.net/weixin_44089259)
+- ~~[https://me.csdn.net/weixin_44089259](https://me.csdn.net/weixin_44089259)~~
 - [nornoya](https://nornoya.github.io/)
 - [lvshaomei](https://lvshaomei.github.io/)
 
