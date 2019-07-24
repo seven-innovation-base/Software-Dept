@@ -59,3 +59,4 @@
 然后使用`git pull`拉取更新
 
 - [极客时间开源项目~程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+- [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl) [（中文）](https://mp.weixin.qq.com/s?__biz=MzI1ODk2Mjk0Nw==&mid=2247484517&idx=1&sn=e070108f90f2b0589eb7b26e746b6819&chksm=ea016709dd76ee1f5079f1559ffdc33d17ab7a36ebd098739071f82eef0aff66464c21949af4&mpshare=1&scene=23&srcid=&sharer_sharetime=1563894573705&sharer_shareid=4d09c35f897e38c8ae8043ee7861db58#rd)
