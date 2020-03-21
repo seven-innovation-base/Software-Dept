@@ -1,6 +1,6 @@
 # 2019-应用软件研发部
 
-![](https://raw.githubusercontent.com/seven-innovation-base/picture/master/Software.jpg)
+![banner](https://raw.githubusercontent.com/seven-innovation-base/picture/master/Software.jpg)
 
 ## 简介
 
@@ -43,6 +43,10 @@ DevOps元素周期表
 ![landscape](https://cdn.jsdelivr.net/gh/ssmath/mypic/img/20200206223436.png)
 
 >landscape来源：[cncf/landscape](https://github.com/cncf/landscape)
+
+## 常见编程语言知识图谱
+
+![常见编程语言知识图谱](https://i.loli.net/2020/03/21/DFoVM85LNkGEeOn.png)
 
 ## 部门成员个人博客（不全）
 
