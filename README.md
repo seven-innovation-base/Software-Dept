@@ -14,6 +14,8 @@
 
 3. 开源正经历着前所未有，希望各成员积极参与一些优秀的开源项目的文档贡献和代码贡献
 
+4. 先精后广，打好基础，精了自然广，不留遗憾
+
 **Slogan**: 只会侃侃而谈却做不出来、做不到就是个屁！！！
 
 ## 技术生态一览
@@ -51,8 +53,8 @@ DevOps元素周期表
 ## 部门成员个人博客（不全）
 
 - [ShanSan](https://yeshan333.github.io/)# Rustacean、Pythonista
-- [nornoya](https://nornoya.github.io/)# frontend
-- [lvshaomei](https://lvshaomei.github.io/)# frontend
+- [nornoya](https://nornoya.github.io/)# front-end
+- [lvshaomei](https://lvshaomei.github.io/)# front-end
 - [liuyingqiao2019](https://tangmenjue.top/)# Java
 
 
