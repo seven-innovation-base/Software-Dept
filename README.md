@@ -1,4 +1,4 @@
-# 2019-应用软件研发部
+# 2021-应用软件研发部
 
 ![banner](https://raw.githubusercontent.com/seven-innovation-base/picture/master/Software.jpg)
 
@@ -16,7 +16,6 @@
 
 4. 先精后广，打好基础，精了自然广，不留遗憾
 
-**Slogan**: 只会侃侃而谈却做不出来、做不到就是个屁！！！
 
 ## 技术生态一览
 
@@ -51,14 +50,6 @@ DevOps元素周期表
 ## 常见编程语言知识图谱
 
 ![常见编程语言知识图谱](https://i.loli.net/2020/03/21/DFoVM85LNkGEeOn.png)
-
-## 部门成员个人博客（不全）
-
-- [ShanSan](https://yeshan333.github.io/)# Rustacean、Pythonista
-- [nornoya](https://nornoya.github.io/)# front-end
-- [lvshaomei](https://lvshaomei.github.io/)# front-end
-- [liuyingqiao2019](https://tangmenjue.top/)# Java
-
 
 ## 视野拓展
 
