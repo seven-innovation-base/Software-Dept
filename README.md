@@ -4,7 +4,7 @@
 
 ## 简介
 
-部门以培养计算机技术领域优秀的工程师为目标，学习方向广泛。主要有：Web 开发、移动端开发（Android、iOS、Hybrid）、PC 客户端开发、DevOps、云计算、云原生等等。
+部门以培养计算机技术领域优秀的工程师为目标，学习方向广泛。主要有：Web 开发、移动端开发（Android、iOS、Hybrid）、PC 客户端开发、DevOps、云计算、云原生、游戏开发等等。
 
 ## 对部门成员的希冀
 
@@ -46,6 +46,10 @@ DevOps元素周期表
 >landscape来源：[cncf/landscape](https://github.com/cncf/landscape)
 
 ![What is Cloud Native](https://cdn.jsdelivr.net/gh/ssmath/picgo-pic/img/20210115130322.png)
+
+- ** 游戏开发 **
+
+> 参考：https://github.com/miloyip/game-programmer
 
 ## 常见编程语言知识图谱
 
