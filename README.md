@@ -1,4 +1,4 @@
-# 2021-应用软件研发部
+# 应用软件研发部
 
 ![banner](https://raw.githubusercontent.com/seven-innovation-base/picture/master/Software.jpg)
 
